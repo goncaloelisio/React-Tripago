@@ -1,3 +1,16 @@
+## Tripago app
+
+It covers: 
+
+- JSON server 
+- UseEffect hook 
+- Custom hooks 
+- UseEffect dependency array
+- Handling errors
+- Loading/Pending state
+- Clean Up function 
+- Reference types are [ ] and { } and to avoid useEffect see reference types as change values and cause infinite loops.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
